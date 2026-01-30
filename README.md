@@ -99,7 +99,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CZACKER/CZACKER/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/CZACKER/CZACKER/blob/output/github-snake-dark.svg)
 
 ###
 
