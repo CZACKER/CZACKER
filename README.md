@@ -98,8 +98,11 @@
 ###
 
 <br clear="both">
-
-![snake gif](https://github.com/CZACKER/CZACKER/blob/output/github-snake-dark.svg)
+<div align="center">
+  
+  ![snake gif](https://github.com/CZACKER/CZACKER/blob/output/github-snake-dark.svg)
+  
+</div>
 
 ###
 
@@ -109,7 +112,7 @@
 
 ###
 
-<div>
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
