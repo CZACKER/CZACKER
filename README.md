@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! My name is Aryan Daphal and I'm a Computer Engineering Student</h2>
-<h3 align="center">Computer Engineering • Full-stack builder • Curious problem solver</h3>
+<h3 align="center">Computer Engineer • Full-stack builder • Curious problem solver</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-ffb86b?style=for-the-badge&logo=mapbox" alt="location"/>
