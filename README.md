@@ -16,7 +16,7 @@
 
 
 ## About me
-- Computer Engineering student at **Sinhgad College of Engineering**.  
+- Computer Engineering student at **Savitribai Phule Pune University (SPPU)**.  
 - Diploma in Computer Engineering (Govt. Polytechnic Awasari) — **81.26%**.  
 - Internship: **Web Development Intern** at Wisdom Sprouts (built a client-ready restaurant site).  
 - I build clean, user-first web & Android apps — from UI to backend and deployment.
