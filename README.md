@@ -11,6 +11,9 @@
 ###
 
 ---
+###
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpycmt3MGFrcGVmZTZjZXU4MmltMWszOGVtazNzcTZ1dnV6ZTZxMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp"/>
+
 
 ## About me
 - Computer Engineering student at **Sinhgad College of Engineering**.  
@@ -20,8 +23,6 @@
 
 ---
 
-###
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpycmt3MGFrcGVmZTZjZXU4MmltMWszOGVtazNzcTZ1dnV6ZTZxMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp"/>
 
 ## Experience & highlights
 - Web Dev Intern — Wisdom Sprouts IT Training Hub (frontend + backend, responsive sites, Git). 
