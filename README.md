@@ -32,12 +32,13 @@
 ###
 ---
 
-## Tech stack
-**Languages:** C · C++ · Java · Python · JavaScript · PHP · SQL  
-**Frontend:** HTML · CSS · Bootstrap · Tailwind CSS
-**Mobile:** Android (Kotlin / Java)  
-**Backend & Tools:** Node.js · Express · PHP · MySQL · Firebase · GCP · Git · Linux  
-**Other:** REST APIs · FCM · Deployment (Render / basic cloud infra)
+## Tech Stack
+
+- **Languages:** C · C++ · Java · Python · JavaScript · PHP · SQL
+- **Frontend:** HTML · CSS · Bootstrap · Tailwind CSS
+- **Mobile:** Android (Kotlin / Java)
+- **Backend & Tools:** Node.js · Express · PHP · MySQL · Firebase · GCP · Git · Linux
+- **Other:** REST APIs · FCM · Deployment (Render / basic cloud infra)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
